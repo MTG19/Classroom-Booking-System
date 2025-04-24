@@ -1,2 +1,27 @@
-# Classroom-Booking-System
-Developed a Java-based console application for managing classroom bookings with a focus on user interaction and data management. Demonstrated core Object-Oriented Programming (OOP) principles including classes, objects, and encapsulation. Features include adding classrooms, making/editing/canceling bookings, and filtering bookings by date.
+📚 Classroom Booking System
+A simple Java-based application for managing classroom bookings efficiently. This project is designed for learning purposes and demonstrates core Object-Oriented Programming (OOP) concepts, user interaction, and data management.
+
+✨ Features
+📌 Add Classrooms – Define classrooms with room number, capacity, and projector availability.
+📌 List Classrooms – View all available classrooms.
+📌 Make a Booking – Reserve a classroom for a specific date and time.
+📌 Cancel a Booking – Remove an existing reservation.
+📌 Edit a Booking – Modify an existing booking's details.
+📌 View Bookings – Display all bookings or filter by date.
+📌 User-Friendly Interface – Console-based interactive menu for ease of use.
+🛠 Technologies Used
+Java (Core programming language)
+Collections API (ArrayList for data storage)
+Scanner Class (For user input handling)
+OOP Concepts (Classes, Objects, Methods, Encapsulation)
+📸 Preview
+Booking System Menu:
+
+Add Classroom
+Show Classrooms
+Make Booking
+Cancel Booking
+Edit Booking
+Show Bookings
+Show Bookings by Date
+Exit
